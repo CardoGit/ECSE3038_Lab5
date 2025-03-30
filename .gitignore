@@ -1,0 +1,9 @@
+# Ignore PlatformIO build files
+.pio/
+.vscode/
+
+# Ignore WiFi & API credentials
+include/env.h
+
+# Ignore compiled binaries
+*.bin
